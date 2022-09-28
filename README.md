@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Thaistfs
-- 👀 I’m interested in Sofware engineering 
+- 👀 I’m interested in Software engineering 
 - 🌱 I’m currently learning Coding HTML, CSS and Java
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me thais59321@hormail.com
